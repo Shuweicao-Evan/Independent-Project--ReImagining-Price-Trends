@@ -1,4 +1,4 @@
-# Independent-Project----Re--Imag-in-ing-Price-Trends
+# Independent-Project--(Re-Imag-in-ing-Price-Trends)
 HKUST_MAFM_Independent Project_WANG Yufeng_21020948
 
 **CNN___independt_project.pdf** elaborate the following parts in detail: 1.Data 2.CNN Architecture 3.Model Training 4.Sensitivity Testing 5.Interpretation 6.Decile and Long-Short Portfolio Performance  
