@@ -1,5 +1,5 @@
 # Independent-Project----Re--Imag-in-ing-Price-Trends
-HKUST_MAFM_Independent Project _WANG Yufeng
+HKUST_MAFM_Independent Project_WANG Yufeng_21020948
 
 The avg test accuracy is 52.5%.  
 From 2000 to 2019, the average return of long short portfolio is 25.25%, Sharpe ratio is 1.74 and max drawdown is 5.33% on 201503.  
